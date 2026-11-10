@@ -94,18 +94,26 @@ https://github.com/user-attachments/assets/f9f6a933-d388-4c8b-9c9a-011dfa37617b
 </p>
 <p align="center"><sub>Real photos, not renders: the 4-inch Guition next to the lamp it controls.</sub></p>
 
-## Five screens supported, 2.8 to 10.1 inch
+## Six screens supported, 2.8 to 10.1 inch
 
-One home, five panels. A screen is built for the glass it runs on: it measures its own canvas at boot and gives a page
+One home, six panels. A screen is built for the glass it runs on: it measures its own canvas at boot and gives a page
 the cells that board has, six tiles on the 2.8-inch CYD and twenty-five on the 10.1-inch Guition, while a tile stays about
 the same size in millimetres. The same tiles, the same cards, the same editor; the bigger the glass, the more of your
 home fits on one page. Each board starts on the grid that suits its glass, and the editor changes the columns and rows
 beside the pages, without a new build: the 10.1-inch Guition holds up to forty tiles on a page with eight rows.
 
+### Supported Displays
+- **BTT Panda Touch** (5-inch, 800 x 480) – *New in this fork!*
+- **Cheap Yellow Display (CYD)** (2.8-inch)
+- **Guition** (4-inch)
+- **Waveshare** (4.3-inch)
+- **Waveshare** (7-inch)
+- **Guition** (10.1-inch, JC8012P4A1)
+
 <p align="center">
-  <img src="docs/images/boards-scale.png" width="98%" alt="The five supported screens side by side on one scale, each showing a page of the same home: the small 2.8-inch CYD, the square 4-inch Guition, the wide 4.3-inch Waveshare, the 7-inch Waveshare and the large 10.1-inch Guition">
+  <img src="docs/images/boards-scale.png" width="98%" alt="The six supported screens side by side on one scale, each showing a page of the same home">
 </p>
-<p align="center"><sub>To scale, each with the page it fills: the same home on the 2.8-inch CYD, the 4-inch Guition, the 4.3-inch and 7-inch Waveshare, and the 10.1-inch Guition. Rendered from the firmware's own code, one board at a time.</sub></p>
+<p align="center"><sub>To scale, each with the page it fills: the same home on the 2.8-inch CYD, the 4-inch Guition, the 4.3-inch and 7-inch Waveshare, the 5-inch BTT Panda Touch, and the 10.1-inch Guition. Rendered from the firmware's own code, one board at a time.</sub></p>
 <p align="center">
   <img src="docs/images/board-cyd.png" width="32%" alt="The kitchen page on the 2.8-inch CYD: the weather with five days, a pasta timer, the coffee machine, the kitchen lamp and the power usage">
   <img src="docs/images/board-guition.png" width="32%" alt="The Good morning page on the 4-inch Guition: an analog clock with the time and the date, the weather for four days, the coffee machine in orange and Sam at home">
